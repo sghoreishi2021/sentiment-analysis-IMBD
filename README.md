@@ -1,9 +1,3 @@
-
-readme = f"""# Sentiment Analysis on IMDB (Baseline + Rich Evaluation)
-
-![Build](https
-![icense
-
 ## Overview
 End-to-end **NLP sentiment analysis** on the IMDB Large Movie Review Dataset using a **TF–IDF + Logistic Regression** baseline, with rich evaluation and visualizations:
 - **Discrimination:** ROC/PR curves, ROC-AUC, PR-AUC
