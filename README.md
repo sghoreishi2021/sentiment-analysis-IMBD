@@ -1,5 +1,3 @@
-# sentiment-analysis-IMBD
-End-to-end sentiment analysis pipeline using TF-IDF + Logistic Regression with IMDB dataset, calibration, and rich visualizations
 
 readme = f"""# Sentiment Analysis on IMDB (Baseline + Rich Evaluation)
 
@@ -22,4 +20,3 @@ Colab-ready: a single notebook/script downloads data, trains, evaluates, visuali
 - Official page: http://ai.stanford.edu/~amaas/data/sentiment/
 - Direct download: https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
 - Citation:
-
